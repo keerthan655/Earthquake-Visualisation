@@ -11,7 +11,7 @@ This notebook utilizes earthquake data to create insightful visualizations. It a
 1. **Data Exploration**: Exploring the earthquake dataset to understand its structure and contents.
 2. **Visualizations**:
    - Time series analysis of earthquake occurrences.
-   - Geographic distribution of earthquakes using interactive maps.
+   - Geographic distribution of earthquakes using interactive and static maps.
    - Magnitude distribution through histograms and scatter plots.
    - **Interactive Map**: An interactive map displaying the geographical distribution of earthquakes.
 3. **Insights**: Analysis and interpretation of the visualizations to gain insights into earthquake patterns and trends.
@@ -34,8 +34,15 @@ This notebook utilizes earthquake data to create insightful visualizations. It a
 4. **Interactivity**:
    - Some visualizations may be interactive, allowing you to zoom in, hover over points, etc. Follow on-screen instructions for interactivity.
    
+## Interactive Map
+
+![Interactive Map](images/2.png)
+(images/1.png)
+*Figure 4: Interactive Map Showing Geographic Distribution of Earthquakes*
+
+## Sample Visualizations
 
 ## Credits
 
-- The earthquake data used in this notebook is sourced from [source_name](link_to_source).
+- The earthquake data used in this notebook is sourced from "https://earthquake.usgs.gov/fdsnws/"
 - Libraries used: [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [folium](https://python-visualization.github.io/folium/), etc.
