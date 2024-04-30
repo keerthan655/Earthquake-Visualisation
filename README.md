@@ -37,10 +37,13 @@ This notebook utilizes earthquake data to create insightful visualizations. It a
 ## Interactive Map
 
 ![Interactive Map](images/2.png)
-(images/1.png)
-*Figure 4: Interactive Map Showing Geographic Distribution of Earthquakes*
 
-## Sample Visualizations
+* Interactive Map Showing Geographic Distribution of Earthquakes*
+
+![Interactive Map](images/1.png)
+
+* Static Map Showing Geographic Distribution of Earthquakes with gradient of magnitude*
+
 
 ## Credits
 
